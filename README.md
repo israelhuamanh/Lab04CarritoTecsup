@@ -7,6 +7,10 @@
 Aplicación de carrito de compras construida con Jetpack Compose que integra un formulario de captura de datos y una lista dinámica. Calcula el subtotal, IGV (18%) y total en tiempo real.
 
 ## Capturas de Pantalla
+<img width="1080" height="2340" alt="Screenshot_20260916-144647_Lab04CarritoTecsup" src="https://github.com/user-attachments/assets/b407cc46-9652-45a7-85ed-a76732390fc5" />
+<img width="1080" height="2340" alt="Screenshot_20260916-144631_Lab04CarritoTecsup" src="https://github.com/user-attachments/assets/026bb07d-27f9-4b6b-864d-5a1c5989ea13" />
+
+
 
 
 **a) ¿Por qué usar mutableStateListOf y no una MutableList normal?**
